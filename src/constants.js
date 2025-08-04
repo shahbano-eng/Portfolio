@@ -1,30 +1,30 @@
 // Skills Section Logo's
-import htmlLogo from './assets/Tech_logo/html.png';
-import cssLogo from './assets/Tech_logo/css.png';
-import javascriptLogo from './assets/Tech_logo/javascript.png';
-import reactjsLogo from './assets/Tech_logo/reactjs.png';
-import tailwindcssLogo from './assets/Tech_logo/tailwindcss.png';
-import bootstrapLogo from './assets/Tech_logo/bootstrap.png';
-import nodejsLogo from './assets/Tech_logo/nodejs.png';
-import mysqlLogo from './assets/Tech_logo/mysql.png';
-import mongodbLogo from './assets/Tech_logo/mongodb.png';
-import cLogo from './assets/Tech_logo/c.png';
-import cppLogo from './assets/Tech_logo/cpp.png';
-import javaLogo from './assets/Tech_logo/java.png';
-import pythonLogo from './assets/Tech_logo/python.png';
-import typescriptLogo from './assets/Tech_logo/typescript.png';
-import gitLogo from './assets/Tech_logo/git.png';
-import githubLogo from './assets/Tech_logo/github.png';
+import htmlLogo from './assets/Tech_Logo/html.png';
+import cssLogo from './assets/Tech_Logo/css.png';
+import javascriptLogo from './assets/Tech_Logo/javascript.png';
+import reactjsLogo from './assets/Tech_Logo/reactjs.png';
+import tailwindcssLogo from './assets/Tech_Logo/tailwindcss.png';
+import bootstrapLogo from './assets/Tech_Logo/bootstrap.png';
+import nodejsLogo from './assets/Tech_Logo/nodejs.png';
+import mysqlLogo from './assets/Tech_Logo/mysql.png';
+import mongodbLogo from './assets/Tech_Logo/mongodb.png';
+import cLogo from './assets/Tech_Logo/c.png';
+import cppLogo from './assets/Tech_Logo/cpp.png';
+import javaLogo from './assets/Tech_Logo/java.png';
+import pythonLogo from './assets/Tech_Logo/python.png';
+import typescriptLogo from './assets/Tech_Logo/typescript.png';
+import gitLogo from './assets/Tech_Logo/git.png';
+import githubLogo from './assets/Tech_Logo/github.png';
 import vscodeLogo from './assets/Tech_logo/vscode.png';
-import postmanLogo from './assets/Tech_logo/postman.png';
-import figmaLogo from './assets/Tech_logo/figma.png';
-import PHPLogo from './assets/Tech_logo/php.png';
-import NgrokLogo from './assets/Tech_logo/Ngrok.jpeg';
-import csharpLogo from './assets/Tech_logo/csharp.png'; 
+import postmanLogo from './assets/Tech_Logo/postman.png';
+import figmaLogo from './assets/Tech_Logo/figma.png';
+import PHPLogo from './assets/Tech_Logo/php.png';
+import NgrokLogo from './assets/Tech_Logo/Ngrok.jpeg';
+import csharpLogo from './assets/Tech_Logo/csharp.png'; 
 
 
 // Experience Section Logo's
-import IstariLogo from './assets/Company_Logo/istari_logo.jpeg';
+import IstariLogo from './assets/Company_Logo/Istari_Logo.jpeg';
 import PsutLogo from './assets/Company_Logo/PSUT_Logo.png';
 
 
@@ -33,9 +33,9 @@ import ittihadLogo from './assets/Education_Logo/Al-Ittihad_School.jpeg';
 import Psut_Logo from './assets/education_logo/PSUT_Logo.png';
 
 // Project Section Logo's
-import MedishareLogo from './assets/work_logo/Medishare.png';
-import GiftShopLogo from './assets/work_logo/S&T_Gifts.jpeg';
-import RC from './assets/Work_logo/RC.png';
+import MedishareLogo from './assets/Work_Logo/Medishare.png';
+import GiftShopLogo from './assets/Work_Logo/S&T_Gifts.jpeg';
+import RC from './assets/Work_Logo/RC.png';
 
 export const SkillsInfo = [
   {

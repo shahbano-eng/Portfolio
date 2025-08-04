@@ -30,7 +30,7 @@ import PsutLogo from './assets/Company_Logo/PSUT_Logo.png';
 
 // Education Section Logo's
 import ittihadLogo from './assets/Education_Logo/Al-Ittihad_School.jpeg';
-import Psut_Logo from './assets/education_logo/PSUT_Logo.png';
+import Psut_Logo from './assets/Education_Logo/PSUT_Logo.png';
 
 // Project Section Logo's
 import MedishareLogo from './assets/Work_Logo/Medishare.png';

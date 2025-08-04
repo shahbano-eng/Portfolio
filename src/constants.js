@@ -15,7 +15,7 @@ import pythonLogo from './assets/Tech_Logo/python.png';
 import typescriptLogo from './assets/Tech_Logo/typescript.png';
 import gitLogo from './assets/Tech_Logo/git.png';
 import githubLogo from './assets/Tech_Logo/github.png';
-import vscodeLogo from './assets/Tech_logo/vscode.png';
+import vscodeLogo from './assets/Tech_Logo/vscode.png';
 import postmanLogo from './assets/Tech_Logo/postman.png';
 import figmaLogo from './assets/Tech_Logo/figma.png';
 import PHPLogo from './assets/Tech_Logo/php.png';

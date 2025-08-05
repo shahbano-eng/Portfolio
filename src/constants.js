@@ -33,7 +33,7 @@ import ittihadLogo from './assets/Education_Logo/Al-Ittihad_School.jpeg';
 import Psut_Logo from './assets/Education_Logo/PSUT_Logo.png';
 
 // Project Section Logo's
-import MedishareLogo from './assets/Work_Logo/MediShare.png';
+import MediShareLogo from './assets/Work_Logo/MediShare.png';
 import GiftShopLogo from './assets/Work_Logo/S&T_Gifts.jpeg';
 import RC from './assets/Work_Logo/RC.png';
 

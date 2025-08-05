@@ -158,7 +158,7 @@ export const SkillsInfo = [
       title: "MediShare - Healthcare Management System",
       description:
         "A secure health records management system using React Native, Node.js, MongoDB, and Ngrok API. Enabled patients to share records with doctors through secure links and implemented a dual-interface system for both users and healthcare professionals. l and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-      image: MedishareLogo,
+      image: MediShareLogo,
       tags: ["React Native", "Node.js", "MongoDB", "React JS", "Ngrok API"],
     },
     {
